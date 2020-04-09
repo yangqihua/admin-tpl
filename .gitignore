@@ -1,0 +1,15 @@
+/thinkphp/
+/vendor/
+application/database.php
+application/config.php
+application/extra/
+
+/runtime/
+.idea
+composer.lock
+*.log
+!.gitkeep
+.env
+.DS_Store
+.bowerrc
+.travis.yml
